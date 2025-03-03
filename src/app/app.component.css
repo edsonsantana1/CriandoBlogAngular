@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.content {
+  margin-top: 20px;
+  /* Adicione mais estilos aqui */
+}
+
+.custom-link {
+  color: rgb(246, 246, 248); /* Altere para a cor desejada */
+  text-decoration: none; /* Remove o sublinhado padrão */
+}
+
+.custom-link:hover {
+  color: rgb(247, 10, 10); /* Cor ao passar o mouse */
+}
